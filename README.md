@@ -1,4 +1,4 @@
-131 Games for Your Commodore 64, C128, and SuperPET with APL Source Code
+**131 Games for Your Commodore 64, C128, and SuperPET with APL Source Code**
 
 The Commodore 64 and 128 games are on the c64gamesapl.d64 disk. These are used with APL/Z, run from CP/M as APL.COM. Once APL is loaded, load the game workspaces.   )lib  will show the workspaces and )load workspace  to load a given workspace. When the workspace is loaded use )fns to show the functions you may run.
 
