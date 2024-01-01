@@ -1,0 +1,19 @@
+see https://dl.acm.org/doi/abs/10.1145/55626.55630
+Symmetries of the firing squad sychronization problem revealed in a nested array
+Author: 
+A. P. Benkard
+
+ Authors Info & Claims
+APL '88: Proceedings of the international conference on APLDecember 1987Pages 19–27https://doi.org/10.1145/55626.55630
+Published:01 December 1987Publication HistoryCheck for updates on crossmark
+2citation211Downloads
+ 
+eReaderPDF
+APL '88: Proceedings of the international conference on APL
+Symmetries of the firing squad sychronization problem revealed in a nested array
+Pages 19–27
+
+ABSTRACT
+The firing squad problem of automata theory is described and a simple, nonoptimal solution is given. Examination of output traces shows that the solution has at least 
+one obvious symmetry. If the transition matrix is reshaped and partitioned, the resulting nested array not only reveals and explicates more symmetries but suggests ways
+in which nested arrays can be used to save space.
