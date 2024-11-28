@@ -3,6 +3,7 @@ Category: Lost in Adaptation game jam
 System: Commodore SuperPET 
 Language: Waterloo microAPL v1.0 interpreter
 
+Docs, code and sample gameplay at https://medium.com/@solarbreeze69/presenting-queztcoapl-2cdc1b9d234b 
 Instructions: Run using a real SuperPET or in the Vice emulator. You can find Vice for almost any operating system. You can download a Windows version of Vice at https://sourceforge.net/projects/vice-emu/files/releases/binaries/windows/WinVICE-3.0-x64.7z/download
 
 To use the emulator, place the d80 disks in the folder with xpet and launch from the command line:
